@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Tech stack</h2>
+<h3 align="left">Tech stack</h3>
 
 ###
 
@@ -13,12 +13,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang" />
 </div>
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h3 align="left">Connect with me</h3>
 
 ###
 
