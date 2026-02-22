@@ -4,8 +4,6 @@
 # Hi there 👋
 
 Welcome to my GitHub profile!  
-
-Have a great day!
 <!-- <h3 align="left">Tech stack</h3>
 
 ###
